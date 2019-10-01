@@ -1,5 +1,5 @@
 {
-    "name": "react-spin-kit",
+    "name": "@async-be/react-spin-kit",
     "version": "0.1.0",
     "description": "Simple wrapper for spin-kit in ReactJS.",
     "main": "dist/index.js",
