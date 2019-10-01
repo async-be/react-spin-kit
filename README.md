@@ -1,5 +1,6 @@
 ## react-spin-kit
 ![gif](./gif.gif)
+
 Simple wrapper for [spin-kit](https://github.com/tobiasahlin/SpinKit) in ReactJS.
 
 ## usage
